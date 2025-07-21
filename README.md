@@ -1,8 +1,6 @@
-[Hai,there](i)
-<h1 align="center">Hey 👋What's Up?</h1>
+![Hi, There](img/github-header-image.png)
 
-###
-
+<h3 align="center"> Skills </h3>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="12" />
@@ -20,7 +18,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" alt="figma logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="60" alt="flask logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="60" alt="flask logo" color="blue"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="60" alt="flutter logo"  />
   <img width="12" />
@@ -37,7 +35,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
 </div>
 
-###
+<h3 align="center">Connect with me</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/hidayatamal" target="_blank">
@@ -51,32 +49,13 @@
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="25" alt="gmail logo"  />
 </div>
 
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Amalhdyt079.Amalhdyt079&left_text=Visitors"  />
-</div>
-
-###
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Amalhdyt079&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=Amalhdyt079&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
-
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Amalhdyt079/amalhdyt079/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Amalhdyt079/amalhdyt079/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Amalhdyt079/amalhdyt079/output/pacman-contribution-graph.svg">
-</picture>
-
+<img src="https://raw.githubusercontent.com/Amalhdyt079/Amalhdyt079/output/snake.svg" alt="Snake animation" />
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWNwZ3gwaW40Y3Q1dWN1MHR6dmJ6am5hemhhNW1lcWV6ZWxpdjYyNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT1XGVp95GDPgFYmUE/giphy.gif"  />
 </div>
 
-###
 
