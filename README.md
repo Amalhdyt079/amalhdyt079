@@ -1,4 +1,4 @@
-![Hi, There](img/github-header-image.png)
+<img src="img/banner.png" alt="Foto Profil" width="" style="border-radius: 10px;" />
 
 <h3 align="center"> Skills </h3>
 <div align="center">
@@ -56,7 +56,6 @@
 <img src="https://raw.githubusercontent.com/Amalhdyt079/Amalhdyt079/output/snake.svg" alt="Snake animation" />
 
 <br clear="both">
-
 
 <img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWNwZ3gwaW40Y3Q1dWN1MHR6dmJ6am5hemhhNW1lcWV6ZWxpdjYyNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT1XGVp95GDPgFYmUE/giphy.gif"  />
 
